@@ -1,3 +1,0 @@
-let function = function(){
-    
-}
